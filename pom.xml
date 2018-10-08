@@ -6,8 +6,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <licenses>
-        <license>
-            
+        <license>            
             <name>MIT License</name>
             <url>http://opensource.org/licenses/MIT</url>
         </license>
